@@ -1,7 +1,7 @@
 
 ![Programação-Formação Java](https://github.com/iasminaraujoc/3355-java-screenmatch-com-jpa/assets/84939115/3c51e000-962d-4dc9-97fc-1d384e2511a2)
 
-# Serie Management Project
+# Series Titles API Consume Project
 
 This project focuses on managing TV series, allowing users to search for series, episodes, and actors. It employs technologies such as Java, Spring Boot, Spring Data JPA, and RESTful API endpoints.
 
